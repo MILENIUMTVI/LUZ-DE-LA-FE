@@ -1,6 +1,5 @@
 # LUZ-DE-LA-FE
 PROYECTO LUZ DE LA FE
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
