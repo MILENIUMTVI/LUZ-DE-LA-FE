@@ -567,8 +567,3 @@ PROYECTO LUZ DE LA FE
     </footer>
 </body>
 </html>
-        <p>Síguenos en <a href="https://facebook.com/funcecor" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> | <a href="https://instagram.com/funcecor" target="_blank"><i class="fab fa-instagram"></i> Instagram</a> | <a href="mailto:contacto@funcecor.org">contacto@funcecor.org</a></p>
-        <p>Creado con devoción para la gloria de Dios y el bien de las familias.</p>
-    </footer>
-</body>
-</html>
