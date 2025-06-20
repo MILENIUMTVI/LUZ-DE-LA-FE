@@ -5,13 +5,13 @@ PROYECTO LUZ DE LA FE
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Luz de la Fe: Fortaleciendo Familias con Valores Católicos, un proyecto de FUNCECOR que usa medios de comunicación para difundir fe, esperanza y amor.">
-    <meta name="keywords" content="valores católicos, fe, esperanza, caridad, familia, comunidad, FUNCECOR, medios católicos, educación espiritual">
+    <meta name="description" content="La Luz de la Fe, liderada por FUNCECOR, fomenta los valores católicos con reflexiones profundas, cuentos inspiradores y actividades para fortalecer la vida familiar y la comunidad.">
+    <meta name="keywords" content="valores católicos, fe, esperanza, caridad, familia, comunidad, FUNCECOR, catolicismo, cuentos de fe, educación espiritual">
     <meta name="author" content="FUNCECOR">
     <meta name="robots" content="index, follow">
-    <title>Luz de la Fe - FUNCECOR</title>
+    <title>La Luz de la Fe - FUNCECOR</title>
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Lora:wght@400;700&family=Cormorant+Garamond:wght@400;700&family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Lora:wght@400;700&family=Montserrat:wght@500;600&family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
     <!-- Font Awesome para íconos -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -22,7 +22,7 @@ PROYECTO LUZ DE LA FE
         }
         body {
             font-family: 'Roboto', sans-serif;
-            background: linear-gradient(135deg, #f0f4f8, #e0e8f0, #d6e6f2);
+            background: linear-gradient(135deg, #f9f9f9, #e0e8f0);
             color: #333;
             line-height: 1.8;
             overflow-x: hidden;
@@ -34,7 +34,7 @@ PROYECTO LUZ DE LA FE
             background-position: center;
             color: white;
             text-align: center;
-            padding: 8rem 2rem;
+            padding: 7rem 2rem;
             position: relative;
             animation: fadeInDown 2s ease-out;
         }
@@ -42,265 +42,335 @@ PROYECTO LUZ DE LA FE
             display: flex;
             align-items: center;
             justify-content: center;
-            gap: 2.5rem;
-            max-width: 1400px;
+            gap: 2rem;
+            max-width: 1300px;
             margin: 0 auto;
         }
         header h1 {
             font-family: 'Cormorant Garamond', serif;
-            font-size: 4.5rem;
+            font-size: 4rem;
             margin: 0;
-            text-shadow: 4px 4px 8px rgba(0,0,0,0.7);
-            letter-spacing: 3px;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.6);
+            letter-spacing: 2px;
         }
         header img.logo {
-            max-width: 300px;
+            max-width: 280px;
             height: auto;
-            transition: transform 0.5s ease, box-shadow 0.5s ease;
+            transition: transform 0.4s ease, box-shadow 0.4s ease;
         }
         header img.logo:hover {
-            transform: scale(1.15) rotate(5deg);
-            box-shadow: 0 0 20px rgba(255,215,0,0.6);
+            transform: scale(1.1) rotate(5deg);
+            box-shadow: 0 0 15px rgba(255,215,0,0.5);
         }
         header p {
-            font-size: 1.5rem;
-            max-width: 900px;
-            margin: 2.5rem auto 0;
+            font-size: 1.4rem;
+            max-width: 800px;
+            margin: 2rem auto 0;
             font-family: 'Montserrat', sans-serif;
             opacity: 0.95;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
         }
         /* Animaciones */
         @keyframes fadeInDown {
-            from { opacity: 0; transform: translateY(-60px); }
+            from { opacity: 0; transform: translateY(-50px); }
             to { opacity: 1; transform: translateY(0); }
         }
         /* Navegación */
         nav {
-            background: linear-gradient(90deg, #1a5f7a, #0f3c4c, #0a2a36);
-            padding: 1.8rem;
+            background: linear-gradient(90deg, #1a5f7a, #0f3c4c);
+            padding: 1.5rem;
             position: sticky;
             top: 0;
             z-index: 100;
-            box-shadow: 0 6px 25px rgba(0,0,0,0.4);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
         }
         nav ul {
             display: flex;
             justify-content: center;
             list-style: none;
-            gap: 3rem;
+            gap: 2.5rem;
         }
         nav ul li a {
             color: white;
             text-decoration: none;
             font-weight: 600;
             font-family: 'Montserrat', sans-serif;
-            font-size: 1.2rem;
-            transition: color 0.5s, text-shadow 0.5s;
+            font-size: 1.1rem;
+            transition: color 0.4s, text-shadow 0.4s;
         }
         nav ul li a:hover {
             color: #ffd700;
-            text-shadow: 0 0 15px rgba(255,215,0,0.8);
+            text-shadow: 0 0 10px rgba(255,215,0,0.7);
         }
         /* Contenedor Principal */
         .container {
-            max-width: 1500px;
+            max-width: 1400px;
             margin: 0 auto;
-            padding: 3.5rem;
+            padding: 3rem;
         }
         /* Sección Hero */
         .hero {
             text-align: center;
-            padding: 6rem 2rem;
+            padding: 5rem 2rem;
             background: linear-gradient(135deg, #ffffff, #f0f4f8, #e0e8f0);
-            border-radius: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            margin-bottom: 5rem;
-            animation: slideUpFade 2s ease-out;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+            margin-bottom: 4rem;
+            animation: slideUpFade 1.5s ease-out;
         }
         .hero h2 {
             font-family: 'Cormorant Garamond', serif;
             color: #1a5f7a;
-            font-size: 4rem;
-            margin-bottom: 2.5rem;
+            font-size: 3.5rem;
+            margin-bottom: 2rem;
             text-transform: uppercase;
-            letter-spacing: 2px;
+            letter-spacing: 1px;
         }
         .hero p {
-            font-size: 1.4rem;
-            max-width: 1000px;
-            margin: 0 auto 3rem;
+            font-size: 1.3rem;
+            max-width: 900px;
+            margin: 0 auto 2.5rem;
             color: #444;
-            font-family: 'Lora', serif;
+            font-family: 'Montserrat', sans-serif;
         }
         .multimedia {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-            gap: 3rem;
-            margin-top: 3rem;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2.5rem;
+            margin-top: 2.5rem;
         }
         .multimedia iframe, .multimedia audio {
             width: 100%;
-            border-radius: 15px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-            transition: transform 0.4s ease, box-shadow 0.4s ease;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
         }
         .multimedia iframe:hover, .multimedia audio:hover {
-            transform: scale(1.03);
-            box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+            transform: scale(1.02);
         }
         /* Animación */
         @keyframes slideUpFade {
-            from { transform: translateY(40px); opacity: 0; }
+            from { transform: translateY(30px); opacity: 0; }
             to { transform: translateY(0); opacity: 1; }
         }
-        /* Secciones Generales */
+        /* Carrusel de Valores */
+        .values-carousel {
+            display: flex;
+            overflow-x: auto;
+            gap: 2.5rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, #e8f1f2, #d6e6f2, #c0d6e4);
+            border-radius: 20px;
+            margin-bottom: 4rem;
+            scrollbar-width: thin;
+            scrollbar-color: #1a5f7a #e8f1f2;
+        }
+        .value-card {
+            flex: 0 0 240px;
+            background: linear-gradient(135deg, #ffffff, #f8fafc);
+            padding: 1.8rem;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+            transition: all 0.5s ease;
+        }
+        .value-card:hover {
+            transform: translateY(-12px) scale(1.08);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.3);
+        }
+        .value-card h3 {
+            color: #1a5f7a;
+            font-family: 'Cormorant Garamond', serif;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        .value-card p {
+            font-size: 1rem;
+            color: #555;
+            line-height: 1.5;
+        }
+        /* Secciones */
         .section {
             background: linear-gradient(135deg, #ffffff, #f8fafc, #f0f4f8);
-            padding: 4rem;
-            margin-bottom: 5rem;
-            border-radius: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            transition: transform 0.5s ease, box-shadow 0.5s ease;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            transition: transform 0.4s ease, box-shadow 0.4s ease;
         }
         .section:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+            transform: translateY(-8px);
+            box-shadow: 0 12px 35px rgba(0,0,0,0.2);
         }
         .section h2 {
             font-family: 'Cormorant Garamond', serif;
             color: #1a5f7a;
-            font-size: 3.5rem;
-            margin-bottom: 2.5rem;
-            text-align: center;
-            text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-        }
-        .section p {
-            font-size: 1.2rem;
-            color: #555;
-            line-height: 2;
+            font-size: 3rem;
             margin-bottom: 2rem;
-        }
-        .section ul {
-            list-style: none;
-            margin-left: 2rem;
-        }
-        .section ul li {
-            font-size: 1.1rem;
-            margin-bottom: 1rem;
-            position: relative;
-        }
-        .section ul li:before {
-            content: "✝";
-            color: #1a5f7a;
-            position: absolute;
-            left: -1.5rem;
+            text-align: center;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
         }
         /* Testimonios */
         .testimonials {
             background: linear-gradient(135deg, #e8f1f2, #d6e6f2, #c0d6e4);
-            padding: 4rem;
-            border-radius: 25px;
-            margin-bottom: 5rem;
+            padding: 3rem;
+            border-radius: 20px;
+            margin-bottom: 4rem;
         }
         .testimonial {
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
             font-style: italic;
-            font-size: 1.3rem;
+            font-size: 1.2rem;
             color: #333;
-            padding: 2.5rem;
+            padding: 2rem;
             background: linear-gradient(135deg, #ffffff, #f8fafc);
-            border-radius: 15px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-            transition: transform 0.4s ease;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
         }
         .testimonial:hover {
-            transform: translateY(-8px);
+            transform: translateY(-5px);
         }
         /* Formulario */
         .contact-form {
             display: flex;
             flex-direction: column;
-            gap: 1.8rem;
-            max-width: 900px;
+            gap: 1.5rem;
+            max-width: 800px;
             margin: 0 auto;
-            padding: 3rem;
+            padding: 2.5rem;
             background: linear-gradient(135deg, #ffffff, #f0f4f8);
-            border-radius: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
         }
         .contact-form input, .contact-form textarea {
-            padding: 1.5rem;
+            padding: 1.2rem;
             border: 2px solid #ccc;
-            border-radius: 12px;
-            font-size: 1.3rem;
-            transition: border-color 0.5s, box-shadow 0.5s;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            transition: border-color 0.4s, box-shadow 0.4s;
         }
         .contact-form input:focus, .contact-form textarea:focus {
             border-color: #1a5f7a;
-            box-shadow: 0 0 15px rgba(26,95,122,0.4);
+            box-shadow: 0 0 10px rgba(26,95,122,0.3);
             outline: none;
         }
         .contact-form button {
             background: linear-gradient(135deg, #1a5f7a, #0f3c4c);
             color: white;
-            padding: 1.5rem;
+            padding: 1.2rem;
             border: none;
-            border-radius: 12px;
+            border-radius: 10px;
             cursor: pointer;
-            font-size: 1.4rem;
+            font-size: 1.3rem;
             font-weight: 600;
             text-transform: uppercase;
-            transition: background 0.5s, transform 0.5s, box-shadow 0.5s;
+            transition: background 0.4s, transform 0.4s, box-shadow 0.4s;
         }
         .contact-form button:hover {
             background: linear-gradient(135deg, #0f3c4c, #1a5f7a);
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
         }
         /* Pie de Página */
         footer {
             background: linear-gradient(135deg, #1a5f7a, #0f3c4c, #0a2a36);
             color: white;
             text-align: center;
-            padding: 3.5rem;
-            margin-top: 5rem;
+            padding: 3rem;
+            margin-top: 4rem;
         }
         footer a {
             color: #ffd700;
             text-decoration: none;
             font-weight: 600;
-            transition: color 0.4s, text-shadow 0.4s;
+            transition: color 0.3s, text-shadow 0.3s;
         }
         footer a:hover {
             color: #ffeb3b;
-            text-shadow: 0 0 15px rgba(255,235,59,0.8);
+            text-shadow: 0 0 10px rgba(255,235,59,0.7);
+        }
+        /* Nueva Sección: Cuentos de Fe */
+        .faith-stories {
+            background: linear-gradient(135deg, #f8fafc, #e8f1f2, #d6e6f2);
+            padding: 3rem;
+            margin-bottom: 4rem;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+        .faith-stories h2 {
+            font-family: 'Cormorant Garamond', serif;
+            color: #1a5f7a;
+            font-size: 3rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+        }
+        .faith-stories .story-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2.5rem;
+        }
+        .faith-stories .story-card {
+            background: linear-gradient(135deg, #ffffff, #f8fafc);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+            transition: transform 0.4s ease, box-shadow 0.4s ease;
+        }
+        .faith-stories .story-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+        }
+        .faith-stories .story-card img {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-bottom: 1.5rem;
+            transition: transform 0.3s ease;
+        }
+        .faith-stories .story-card img:hover {
+            transform: scale(1.05);
+        }
+        .faith-stories .story-card .story-content h3 {
+            color: #1a5f7a;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+        .faith-stories .story-card .story-content p {
+            font-size: 1.1rem;
+            color: #555;
+            margin-bottom: 1.5rem;
+        }
+        .faith-stories .story-card .multimedia {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
         }
         /* Responsividad */
         @media (max-width: 768px) {
             header .header-content {
                 flex-direction: column;
-                gap: 2rem;
+                gap: 1.5rem;
             }
             header h1 {
-                font-size: 3rem;
+                font-size: 2.8rem;
             }
             header img.logo {
-                max-width: 220px;
+                max-width: 200px;
             }
             nav ul {
                 flex-direction: column;
-                gap: 2rem;
+                gap: 1.5rem;
                 text-align: center;
             }
             .hero h2 {
-                font-size: 2.5rem;
+                font-size: 2.2rem;
             }
-            .multimedia {
+            .multimedia, .faith-stories .story-grid {
                 grid-template-columns: 1fr;
             }
-            .section {
-                padding: 2.5rem;
+            .faith-stories .story-card {
+                padding: 1.5rem;
             }
         }
     </style>
@@ -312,23 +382,18 @@ PROYECTO LUZ DE LA FE
             <img src="logo.png" alt="Logo FUNCECOR - Fundación Educativa para el Desarrollo" class="logo">
             <h1>FUNCECOR</h1>
         </div>
-        <p>Luz de la Fe: Un faro que ilumina el camino de las familias católicas, fortaleciendo su fe, amor y unidad en un mundo de desafíos modernos.</p>
+        <p>La Luz de la Fe: Un sagrado sendero que guía a las familias católicas hacia la unión, la esperanza y el amor eterno, inspirando a padres, niños y jóvenes a vivir los valores divinos de fe, esperanza, caridad, respeto, responsabilidad, perdón y solidaridad.</p>
     </header>
 
     <!-- Navegación -->
     <nav role="navigation">
         <ul>
             <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#resumen">Resumen</a></li>
-            <li><a href="#objetivos">Objetivos</a></li>
-            <li><a href="#justificacion">Justificación</a></li>
-            <li><a href="#publico">Público</a></li>
-            <li><a href="#estrategias">Estrategias</a></li>
-            <li><a href="#plan">Plan</a></li>
-            <li><a href="#recursos">Recursos</a></li>
-            <li><a href="#indicadores">Indicadores</a></li>
-            <li><a href="#riesgos">Riesgos</a></li>
-            <li><a href="#conclusion">Conclusión</a></li>
+            <li><a href="#valores">Valores</a></li>
+            <li><a href="#padres">Para Padres</a></li>
+            <li><a href="#jovenes">Para Niños y Jóvenes</a></li>
+            <li><a href="#cuentos">Cuentos de Fe</a></li>
+            <li><a href="#eventos">Eventos</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
     </nav>
@@ -337,162 +402,171 @@ PROYECTO LUZ DE LA FE
     <main class="container" role="main">
         <!-- Sección Hero -->
         <section id="inicio" class="hero" aria-labelledby="hero-title">
-            <h2 id="hero-title">Luz de la Fe: Fortaleciendo Familias</h2>
-            <p>Bienvenidos a un proyecto transformador de FUNCECOR que utiliza los medios de comunicación para difundir los valores católicos, inspirando a las familias a vivir su fe con alegría y compromiso en un mundo cambiante.</p>
+            <h2 id="hero-title">Bienvenidos a La Luz de la Fe</h2>
+            <p>En <strong>FUNCECOR</strong>, abrimos las puertas de un espacio sagrado donde los valores católicos florecen. Acompañamos a las familias en un viaje espiritual, ofreciendo reflexiones profundas, actividades inspiradoras y recursos que fortalecen la fe y el amor en el hogar, impactando positivamente nuestras comunidades.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag" title="Introducción a Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Bienvenida a La Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
 
-        <!-- Sección Resumen Ejecutivo -->
-        <section id="resumen" class="section" aria-labelledby="resumen-title">
-            <h2 id="resumen-title">Resumen Ejecutivo</h2>
-            <p>El proyecto <strong>"Luz de la Fe"</strong> busca promover los valores católicos en las familias mediante una estrategia integral de medios de comunicación. En un mundo donde las familias enfrentan desafíos culturales, sociales y tecnológicos, este proyecto utiliza plataformas digitales, radio, televisión y eventos comunitarios para difundir mensajes que refuercen la fe, el amor, la unidad y la moral cristiana, inspirando a las familias a ser el núcleo vivo de la sociedad.</p>
+        <!-- Carrusel de Valores -->
+        <section id="valores" aria-labelledby="values-title">
+            <h2 id="values-title">Nuestros Pilares de Fe</h2>
+            <div class="values-carousel">
+                <div class="value-card">
+                    <h3>Fe</h3>
+                    <p>Un ancla espiritual que nos conecta con Dios y nos guía en cada paso de la vida.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Esperanza</h3>
+                    <p>La luz que ilumina nuestro camino hacia un futuro lleno de promesas divinas.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Caridad</h3>
+                    <p>El amor desinteresado que nos impulsa a servir y apoyar a nuestros hermanos.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Respeto</h3>
+                    <p>Honrar la dignidad de cada ser como reflejo de la creación divina.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Responsabilidad</h3>
+                    <p>Compromiso fiel con nuestros deberes hacia Dios, familia y comunidad.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Perdón</h3>
+                    <p>La gracia de sanar corazones y restaurar la paz con humildad y amor.</p>
+                </div>
+                <div class="value-card">
+                    <h3>Solidaridad</h3>
+                    <p>Unirnos en amor y apoyo para construir un mundo más justo y fraternal.</p>
+                </div>
+            </div>
         </section>
 
-        <!-- Sección Objetivos -->
-        <section id="objetivos" class="section" aria-labelledby="objetivos-title">
-            <h2 id="objetivos-title">Objetivos</h2>
-            <p><strong>General:</strong> Difundir los valores católicos (fe, esperanza, caridad, respeto, responsabilidad, perdón y solidaridad) para fortalecer la vida familiar y su impacto en la comunidad.</p>
-            <p><strong>Específicos:</strong></p>
+        <!-- Sección para Padres -->
+        <section id="padres" class="section" aria-labelledby="parents-title">
+            <h2 id="parents-title">Guía Espiritual para Padres (25-50 años)</h2>
+            <p>Queridos padres, este espacio sagrado les ofrece meditaciones profundas, oraciones guiadas y consejos prácticos para sembrar en sus hijos los valores católicos. Descubran cómo cultivar un hogar lleno de <strong>fe</strong>, <strong>responsabilidad</strong> y <strong>perdón</strong> bajo la luz divina.</p>
+            <div class="multimedia">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <audio controls>
+                    <source src="assets/oracion_familiar.mp3" type="audio/mp3">
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
+            </div>
+        </section>
+
+        <!-- Sección para Niños y Jóvenes -->
+        <section id="jovenes" class="section" aria-labelledby="youth-title">
+            <h2 id="youth-title">Aventura Espiritual para Niños y Jóvenes (5-18 años)</h2>
+            <p>¡Jóvenes y pequeños exploradores de la fe! Sumérjanse en un mundo de historias, canciones y videos que les acercan a la <strong>caridad</strong>, la <strong>esperanza</strong> y la <strong>solidaridad</strong>, mientras crecen en amor y devoción.</p>
+            <div class="multimedia">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Aventura de la caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <audio controls>
+                    <source src="assets/cancion_infantil.mp3" type="audio/mp3">
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
+            </div>
+        </section>
+
+        <!-- Nueva Sección: Cuentos de Fe -->
+        <section id="cuentos" class="faith-stories" aria-labelledby="stories-title">
+            <h2 id="stories-title">Cuentos de Fe: Tesoros Espirituales</h2>
+            <p>Embárquense en un viaje narrativo lleno de fe y enseñanza. Estos cuentos, diseñados para niños y jóvenes, transmiten los valores católicos a través de historias que tocan el corazón y elevan el espíritu.</p>
+            <div class="story-grid">
+                <div class="story-card">
+                    <img src="assets/cuento1.jpg" alt="Ilustración del cuento 'La Luz del Perdón'">
+                    <div class="story-content">
+                        <h3>La Luz del Perdón</h3>
+                        <p>Un niño aprende a perdonar a su amigo tras una discusión, guiado por la voz suave de Jesús que le muestra el poder del amor redentor.</p>
+                        <div class="multimedia">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Cuento: La Luz del Perdón" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <audio controls>
+                                <source src="assets/cuento_perdon.mp3" type="audio/mp3">
+                                Tu navegador no soporta el elemento de audio.
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                <div class="story-card">
+                    <img src="assets/cuento2.jpg" alt="Ilustración del cuento 'El Árbol de la Caridad'">
+                    <div class="story-content">
+                        <h3>El Árbol de la Caridad</h3>
+                        <p>Una familia descubre la alegría de compartir sus bienes con los necesitados, viendo cómo un pequeño acto de amor florece como un árbol eterno.</p>
+                        <div class="multimedia">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <audio controls>
+                                <source src="assets/cuento_caridad.mp3" type="audio/mp3">
+                                Tu navegador no soporta el elemento de audio.
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                <div class="story-card">
+                    <img src="assets/cuento3.jpg" alt="Ilustración del cuento 'La Estrella de la Esperanza'">
+                    <div class="story-content">
+                        <h3>La Estrella de la Esperanza</h3>
+                        <p>Un joven encuentra fuerza en la fe al seguir una estrella que lo guía hacia la esperanza en tiempos de oscuridad.</p>
+                        <div class="multimedia">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Cuento: La Estrella de la Esperanza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <audio controls>
+                                <source src="assets/cuento_esperanza.mp3" type="audio/mp3">
+                                Tu navegador no soporta el elemento de audio.
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sección de Testimonios -->
+        <section id="testimonios" class="testimonials" aria-labelledby="testimonials-title">
+            <h2 id="testimonials-title">Voces de Nuestra Comunidad de Fe</h2>
+            <div class="testimonial">
+                <p>"La Luz de la Fe ha renovado nuestro hogar con oraciones diarias y un amor más profundo por los valores católicos." - <strong>María, madre de tres</strong></p>
+            </div>
+            <div class="testimonial">
+                <p>"Los cuentos de fe han capturado el corazón de mis hijos; ahora piden rezar juntos cada noche." - <strong>Juan, padre dedicado</strong></p>
+            </div>
+            <div class="testimonial">
+                <p>"El taller de oración nos ha unido como familia como nunca antes; gracias, FUNCECOR." - <strong>Ana, madre de dos</strong></p>
+            </div>
+        </section>
+
+        <!-- Sección de Eventos -->
+        <section id="eventos" class="section" aria-labelledby="events-title">
+            <h2 id="events-title">Eventos para Enriquecer tu Fe</h2>
+            <p>Participe en nuestras actividades diseñadas para fortalecer la fe familiar y comunitaria:</p>
             <ul>
-                <li>Crear contenido multimedia atractivo que conecte con familias de diferentes edades y contextos.</li>
-                <li>Fomentar la participación activa de las familias en actividades que refuercen los valores cristianos.</li>
-                <li>Establecer una red de medios de comunicación católica que sea accesible y sostenible.</li>
-                <li>Promover el diálogo intergeneracional sobre la fe y los valores en el hogar.</li>
+                <li><strong>Taller de Oración Familiar</strong> - 15 de julio de 2025, 6:00 PM (Virtual)</li>
+                <li><strong>Retiro Espiritual para Jóvenes</strong> - 22 de agosto de 2025, 9:00 AM (Presencial)</li>
+                <li><strong>Festival de Cuentos de Fe</strong> - 10 de septiembre de 2025, 3:00 PM (Online)</li>
+                <li><strong>Día de la Caridad Comunitaria</strong> - 5 de octubre de 2025, 10:00 AM (Local)</li>
             </ul>
         </section>
 
-        <!-- Sección Justificación -->
-        <section id="justificacion" class="section" aria-labelledby="justificacion-title">
-            <h2 id="justificacion-title">Justificación</h2>
-            <p>La familia, según el Catecismo de la Iglesia Católica (2207), es la base de la sociedad. Hoy, enfrenta retos como la secularización, la influencia de medios contrarios a la fe y la falta de tiempo para la convivencia y la oración. "Luz de la Fe" responde a esta necesidad con contenido inspirador que invita a las familias a vivir su fe con alegría y compromiso, utilizando medios modernos para alcanzar a un público amplio y diverso.</p>
-        </section>
-
-        <!-- Sección Público Objetivo -->
-        <section id="publico" class="section" aria-labelledby="publico-title">
-            <h2 id="publico-title">Público Objetivo</h2>
-            <p><strong>Primario:</strong> Familias católicas de habla castellana, con énfasis en padres de familia (25-50 años) y niños/jóvenes (5-18 años).</p>
-            <p><strong>Secundario:</strong> Líderes comunitarios, educadores católicos y parroquias interesadas en promover valores cristianos.</p>
-            <p><strong>Alcance Geográfico:</strong> Inicialmente en las provincias de Azuay y Cañar, con planes de expansión.</p>
-        </section>
-
-        <!-- Sección Estrategias de Comunicación -->
-        <section id="estrategias" class="section" aria-labelledby="estrategias-title">
-            <h2 id="estrategias-title">Estrategias de Comunicación</h2>
-            <h3>Contenidos Multimedia</h3>
-            <ul>
-                <li><strong>Videos:</strong> Series cortas como "Historias de Fe" (3 minutos) en YouTube, Instagram y TikTok, usando IPTV Milenium TVi.</li>
-                <li><strong>Podcasts:</strong> "Familia en Oración", un programa semanal con reflexiones del Evangelio y consejos familiares.</li>
-                <li><strong>Redes Sociales:</strong> Publicaciones diarias con frases, retos como "Día de oración en familia" y lives con sacerdotes.</li>
-                <li><strong>Aplicación Móvil:</strong> App con guías de oración, catequesis y calendario litúrgico.</li>
-            </ul>
-            <h3>Televisión y Radio</h3>
-            <ul>
-                <li><strong>TV:</strong> "Hogar de Luz" semanal en ACADEMIA, con dinámicas familiares.</li>
-                <li><strong>Radio:</strong> Segmentos de 5 minutos en Ondas Cañaris y Radio Catedral.</li>
-            </ul>
-            <h3>Eventos Comunitarios</h3>
-            <ul>
-                <li><strong>Jornadas Familiares:</strong> Talleres y actividades parroquiales.</li>
-                <li><strong>Campañas Anuales:</strong> "Mes de la Familia Cristiana" con oración y valores.</li>
-            </ul>
-            <h3>Material Impreso y Digital</h3>
-            <ul>
-                <li>Folletos y guías descargables para oración y actividades.</li>
-                <li>Revista digital mensual sobre educación en la fe.</li>
-            </ul>
-        </section>
-
-        <!-- Sección Plan de Acción -->
-        <section id="plan" class="section" aria-labelledby="plan-title">
-            <h2 id="plan-title">Plan de Acción</h2>
-            <h3>Fase 1: Investigación y Planeación (Meses 1-3)</h3>
-            <ul>
-                <li>Diagnóstico mediante encuestas en parroquias y redes sociales.</li>
-                <li>Formación de un equipo con expertos en comunicación y teología.</li>
-                <li>Diseño de identidad visual y narrativa.</li>
-            </ul>
-            <h3>Fase 2: Producción de Contenidos (Meses 4-9)</h3>
-            <ul>
-                <li>Grabación de videos y podcasts iniciales.</li>
-                <li>Creación de contenido para redes y la app.</li>
-                <li>Coordinación con canales y emisoras.</li>
-            </ul>
-            <h3>Fase 3: Lanzamiento y Difusión (Meses 10-12)</h3>
-            <ul>
-                <li>Campaña con evento virtual.</li>
-                <li>Jornadas familiares en parroquias piloto.</li>
-                <li>Monitoreo de retroalimentación.</li>
-            </ul>
-            <h3>Fase 4: Evaluación y Expansión (Año 2)</h3>
-            <ul>
-                <li>Análisis de métricas de audiencia.</li>
-                <li>Ajustes según retroalimentación.</li>
-                <li>Expansión a nuevas regiones.</li>
-            </ul>
-        </section>
-
-        <!-- Sección Recursos Necesarios -->
-        <section id="recursos" class="section" aria-labelledby="recursos-title">
-            <h2 id="recursos-title">Recursos Necesarios</h2>
-            <ul>
-                <li><strong>Humanos:</strong> Periodistas, productores, teólogos, sacerdotes y voluntarios.</li>
-                <li><strong>Técnicos:</strong> Equipos de grabación, software y hosting.</li>
-                <li><strong>Financieros:</strong> $10,000 USD iniciales vía donaciones y crowdfunding.</li>
-                <li><strong>Alianzas:</strong> Diócesis, Radio Catedral, Radio María.</li>
-            </ul>
-        </section>
-
-        <!-- Sección Indicadores de Éxito -->
-        <section id="indicadores" class="section" aria-labelledby="indicadores-title">
-            <h2 id="indicadores-title">Indicadores de Éxito</h2>
-            <p><strong>Cuantitativos:</strong></p>
-            <ul>
-                <li>1,000 suscriptores en YouTube y 1,000 seguidores en redes en el primer año.</li>
-                <li>100 descargas de la app en 6 meses.</li>
-                <li>2 jornadas familiares con 50 asistentes cada una.</li>
-            </ul>
-            <p><strong>Cualitativos:</strong></p>
-            <ul>
-                <li>Retroalimentación positiva sobre impacto espiritual.</li>
-                <li>Testimonios de cambios familiares (oración, diálogo).</li>
-                <li>Incremento en participación parroquial.</li>
-            </ul>
-        </section>
-
-        <!-- Sección Riesgos y Mitigación -->
-        <section id="riesgos" class="section" aria-labelledby="riesgos-title">
-            <h2 id="riesgos-title">Riesgos y Mitigación</h2>
-            <ul>
-                <li><strong>Falta de interés:</strong> Crear contenido dinámico con pruebas piloto.</li>
-                <li><strong>Limitaciones presupuestarias:</strong> Financiamiento diversificado y priorización de bajo costo.</li>
-                <li><strong>Resistencia cultural:</strong> Mensajes inclusivos enfocados en amor y unidad.</li>
-            </ul>
-        </section>
-
-        <!-- Sección Conclusión -->
-        <section id="conclusion" class="section" aria-labelledby="conclusion-title">
-            <h2 id="conclusion-title">Conclusión</h2>
-            <p>"Luz de la Fe" es un proyecto ambicioso y esencial para revitalizar la vivencia de los valores católicos en las familias. Con una estrategia multimedia y comunitaria, no solo difundimos la fe, sino que inspiramos a las familias a ser testigos vivos del amor de Cristo. Con el respaldo de la comunidad católica y una planificación rigurosa, este proyecto será un faro de esperanza para generaciones presentes y futuras.</p>
-        </section>
-
-        <!-- Sección Contacto -->
-        <section id="contacto" class="section" aria-labelledby="contacto-title">
-            <h2 id="contacto-title">Contáctanos</h2>
-            <p>Únete a esta misión divina. Compártenos tus ideas, sugerencias o peticiones de oración para fortalecer nuestra comunidad de fe.</p>
+        <!-- Sección de Contacto -->
+        <section id="contacto" class="section" aria-labelledby="contact-title">
+            <h2 id="contact-title">Únete a Nuestra Misión</h2>
+            <p>¿Desea formar parte de esta comunidad de fe o recibir nuestro boletín mensual con reflexiones y eventos? Compártanos su mensaje y camine con nosotros.</p>
             <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
                 <input type="text" name="name" placeholder="Tu Nombre Completo" required aria-label="Nombre">
                 <input type="email" name="email" placeholder="Tu Correo Electrónico" required aria-label="Correo Electrónico">
-                <textarea name="message" placeholder="Tu Mensaje o Petición de Oración" rows="8" required aria-label="Mensaje"></textarea>
-                <button type="submit">Enviar con Fe</button>
+                <textarea name="message" placeholder="Comparte tus ideas, sugerencias o peticiones de oración" rows="7" required aria-label="Mensaje"></textarea>
+                <button type="submit">Enviar Mensaje con Fe</button>
             </form>
         </section>
     </main>
 
     <!-- Pie de Página -->
     <footer role="contentinfo">
-        <p>© 2025 FUNCECOR - Luz de la Fe. Todos los derechos reservados.</p>
+        <p>© 2025 FUNCECOR - La Luz de la Fe. Todos los derechos reservados.</p>
+        <p>Síguenos en <a href="https://facebook.com/funcecor" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> | <a href="https://instagram.com/funcecor" target="_blank"><i class="fab fa-instagram"></i> Instagram</a> | <a href="mailto:contacto@funcecor.org">contacto@funcecor.org</a></p>
+        <p>Diseñado con amor y fe para la gloria de Dios.</p>
+    </footer>
+</body>
+</html>
         <p>Síguenos en <a href="https://facebook.com/funcecor" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> | <a href="https://instagram.com/funcecor" target="_blank"><i class="fab fa-instagram"></i> Instagram</a> | <a href="mailto:contacto@funcecor.org">contacto@funcecor.org</a></p>
         <p>Creado con devoción para la gloria de Dios y el bien de las familias.</p>
     </footer>
