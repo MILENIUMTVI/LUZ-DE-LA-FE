@@ -461,7 +461,7 @@ PROYECTO LUZ DE LA FE
             <h2 id="youth-title">Aventura Espiritual para Niños y Jóvenes (5-18 años)</h2>
             <p>¡Jóvenes y pequeños exploradores de la fe! Sumérjanse en un mundo de historias, canciones y videos que les acercan a la <strong>caridad</strong>, la <strong>esperanza</strong> y la <strong>solidaridad</strong>, mientras crecen en amor y devoción.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/2Y7f3eL9kZQ" title="Aventura de la caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/1Tk4BB8y4hw" title="Aventura de la caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <audio controls>
                     <source src="assets/cancion_infantil.mp3" type="audio/mp3">
                     Tu navegador no soporta el elemento de audio.
@@ -480,7 +480,7 @@ PROYECTO LUZ DE LA FE
                         <h3>La Luz del Perdón</h3>
                         <p>Un niño aprende a perdonar a su amigo tras una discusión, guiado por la voz suave de Jesús que le muestra el poder del amor redentor.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/X7pQ2yL3zVo" title="Cuento: La Luz del Perdón" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/j15P0ppFwa0" title="Cuento: La Luz del Perdón" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_perdon.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
@@ -494,7 +494,7 @@ PROYECTO LUZ DE LA FE
                         <h3>El Árbol de la Caridad</h3>
                         <p>Una familia descubre la alegría de compartir sus bienes con los necesitados, viendo cómo un pequeño acto de amor florece como un árbol eterno.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/mJ9kL2pQzY8" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/j15P0ppFwa0" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_caridad.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
@@ -508,7 +508,7 @@ PROYECTO LUZ DE LA FE
                         <h3>La Estrella de la Esperanza</h3>
                         <p>Un joven encuentra fuerza en la fe al seguir una estrella que lo guía hacia la esperanza en tiempos de oscuridad.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3mK7pL9rXw" title="Cuento: La Estrella de la Esperanza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/D2kcF_LIaRM" title="Cuento: La Estrella de la Esperanza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_esperanza.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
