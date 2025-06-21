@@ -448,7 +448,7 @@ PROYECTO LUZ DE LA FE
             <h2 id="parents-title">Guía Espiritual para Padres (25-50 años)</h2>
             <p>Queridos padres, este espacio sagrado les ofrece meditaciones profundas, oraciones guiadas y consejos prácticos para sembrar en sus hijos los valores católicos. Descubran cómo cultivar un hogar lleno de <strong>fe</strong>, <strong>responsabilidad</strong> y <strong>perdón</strong> bajo la luz divina.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/4qB8j0tKzX4" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VMa4ffM63zM&list=PLV9nGnp8hOYxkBN0hqc_rBZpLqeWKZbNh&index=14" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <audio controls>
                     <source src="assets/oracion_familiar.mp3" type="audio/mp3">
                     Tu navegador no soporta el elemento de audio.
@@ -494,7 +494,7 @@ PROYECTO LUZ DE LA FE
                         <h3>El Árbol de la Caridad</h3>
                         <p>Una familia descubre la alegría de compartir sus bienes con los necesitados, viendo cómo un pequeño acto de amor florece como un árbol eterno.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/e0iq7mouDTI&t=30s" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/WPMN_fOY_Is" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_caridad.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
