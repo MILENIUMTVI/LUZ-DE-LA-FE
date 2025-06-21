@@ -404,7 +404,7 @@ PROYECTO LUZ DE LA FE
             <h2 id="hero-title">Bienvenidos a La Luz de la Fe</h2>
             <p>En <strong>FUNCECOR</strong>, abrimos las puertas de un espacio donde los valores católicos florecen. Acompañamos a las familias en un viaje espiritual, ofreciendo reflexiones profundas, actividades inspiradoras y recursos que fortalecen la fe y el amor en el hogar, impactando positivamente nuestras comunidades.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag/embed/VIDEO_ID" title="Bienvenida a La Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Bienvenida a La Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
 
@@ -448,7 +448,7 @@ PROYECTO LUZ DE LA FE
             <h2 id="parents-title">Guía Espiritual para Padres (25-50 años)</h2>
             <p>Queridos padres, este espacio sagrado les ofrece meditaciones profundas, oraciones guiadas y consejos prácticos para sembrar en sus hijos los valores católicos. Descubran cómo cultivar un hogar lleno de <strong>fe</strong>, <strong>responsabilidad</strong> y <strong>perdón</strong> bajo la luz divina.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag/embed/VIDEO_ID" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <audio controls>
                     <source src="assets/oracion_familiar.mp3" type="audio/mp3">
                     Tu navegador no soporta el elemento de audio.
@@ -461,7 +461,7 @@ PROYECTO LUZ DE LA FE
             <h2 id="youth-title">Aventura Espiritual para Niños y Jóvenes (5-18 años)</h2>
             <p>¡Jóvenes y pequeños exploradores de la fe! Sumérjanse en un mundo de historias, canciones y videos que les acercan a la <strong>caridad</strong>, la <strong>esperanza</strong> y la <strong>solidaridad</strong>, mientras crecen en amor y devoción.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Aventura de la caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Aventura de la caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <audio controls>
                     <source src="assets/cancion_infantil.mp3" type="audio/mp3">
                     Tu navegador no soporta el elemento de audio.
@@ -480,7 +480,7 @@ PROYECTO LUZ DE LA FE
                         <h3>La Luz del Perdón</h3>
                         <p>Un niño aprende a perdonar a su amigo tras una discusión, guiado por la voz suave de Jesús que le muestra el poder del amor redentor.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag/embed/VIDEO_ID" title="Cuento: La Luz del Perdón" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Cuento: La Luz del Perdón" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_perdon.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
@@ -494,7 +494,7 @@ PROYECTO LUZ DE LA FE
                         <h3>El Árbol de la Caridad</h3>
                         <p>Una familia descubre la alegría de compartir sus bienes con los necesitados, viendo cómo un pequeño acto de amor florece como un árbol eterno.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag/embed/VIDEO_ID" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Cuento: El Árbol de la Caridad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_caridad.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
@@ -508,7 +508,7 @@ PROYECTO LUZ DE LA FE
                         <h3>La Estrella de la Esperanza</h3>
                         <p>Un joven encuentra fuerza en la fe al seguir una estrella que lo guía hacia la esperanza en tiempos de oscuridad.</p>
                         <div class="multimedia">
-                            <iframe width="560" height="315" src="https://https://youtu.be/zoKoxeSRIag/embed/VIDEO_ID" title="Cuento: La Estrella de la Esperanza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Cuento: La Estrella de la Esperanza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <audio controls>
                                 <source src="assets/cuento_esperanza.mp3" type="audio/mp3">
                                 Tu navegador no soporta el elemento de audio.
