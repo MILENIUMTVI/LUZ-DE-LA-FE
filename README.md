@@ -475,7 +475,7 @@ PROYECTO LUZ DE LA FE
             <p>Embárquense en un viaje narrativo lleno de fe y enseñanza. Estos cuentos, diseñados para niños y jóvenes, transmiten los valores católicos a través de historias que tocan el corazón y elevan el espíritu.</p>
             <div class="story-grid">
                 <div class="story-card">
-                    <img src="assets/cuento1.jpg" alt="Ilustración del cuento 'La Luz del Perdón'">
+                    <img src="cuento1.jpg" alt="Ilustración del cuento 'La Luz del Perdón'">
                     <div class="story-content">
                         <h3>La Luz del Perdón</h3>
                         <p>Un niño aprende a perdonar a su amigo tras una discusión, guiado por la voz suave de Jesús que le muestra el poder del amor redentor.</p>
