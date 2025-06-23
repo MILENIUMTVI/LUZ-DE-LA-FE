@@ -446,7 +446,7 @@ PROYECTO LUZ DE LA FE
         <!-- Sección para Padres -->
         <section id="padres" class="section" aria-labelledby="parents-title">
             <h2 id="parents-title">Guía Espiritual para Padres (25-50 años)</h2>
-            <p>Queridos padres, este espacio sagrado les ofrece meditaciones profundas, oraciones guiadas y consejos prácticos para sembrar en sus hijos los valores católicos. Descubran cómo cultivar un hogar lleno de <strong>fe</strong>, <strong>responsabilidad</strong> y <strong>perdón</strong> bajo la luz divina.</p>
+            <p>Queridos padres, este espacio les ofrece meditaciones profundas, oraciones guiadas y consejos prácticos para sembrar en sus hijos los valores católicos. Descubran cómo cultivar un hogar lleno de <strong>fe</strong>, <strong>responsabilidad</strong> y <strong>perdón</strong> bajo la luz la fe.</p>
             <div class="multimedia">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/-2mRj-IBMbo" title="Meditación para padres en la fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <audio controls>
