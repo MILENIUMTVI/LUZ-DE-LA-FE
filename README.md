@@ -503,7 +503,7 @@ PROYECTO LUZ DE LA FE
                     </div>
                 </div>
                 <div class="story-card">
-                    <img src="assets/cuento3.jpg" alt="Ilustración del cuento 'La Estrella de la Esperanza'">
+                    <img src="cuento3.jpg" alt="Ilustración del cuento 'La Estrella de la Esperanza'">
                     <div class="story-content">
                         <h3>La Estrella de la Esperanza</h3>
                         <p>Un joven encuentra fuerza en la fe al seguir una estrella que lo guía hacia la esperanza en tiempos de oscuridad.</p>
