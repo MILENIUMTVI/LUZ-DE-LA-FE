@@ -489,7 +489,7 @@ PROYECTO LUZ DE LA FE
                     </div>
                 </div>
                 <div class="story-card">
-                    <img src="assets/cuento2.jpg" alt="Ilustración del cuento 'El Árbol de la Caridad'">
+                    <img src="cuento2.jpg" alt="Ilustración del cuento 'El Árbol de la Caridad'">
                     <div class="story-content">
                         <h3>El Árbol de la Caridad</h3>
                         <p>Una familia descubre la alegría de compartir sus bienes con los necesitados, viendo cómo un pequeño acto de amor florece como un árbol eterno.</p>
