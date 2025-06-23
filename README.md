@@ -434,7 +434,7 @@ PROYECTO LUZ DE LA FE
                 </div>
                 <div class="value-card">
                     <h3>Perdón</h3>
-                    <p>La gracia de sanar corazones y restaurar la paz con humildad y amor.</p>
+                    <p>Es un acto de amor cristiano que refleja la misericordia de Dios.</p>
                 </div>
                 <div class="value-card">
                     <h3>Solidaridad</h3>
