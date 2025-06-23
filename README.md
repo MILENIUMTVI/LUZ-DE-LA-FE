@@ -381,7 +381,7 @@ PROYECTO LUZ DE LA FE
             <img src="logo.png" alt="Logo FUNCECOR - Fundación Educativa para el Desarrollo" class="logo">
             <h1>FUNCECOR</h1>
         </div>
-        <p>La Luz de la Fe: Un sendero que guía a las familias católicas hacia la unión, la esperanza y el amor eterno, inspirando a padres, niños y jóvenes a vivir los valores divinos de fe, esperanza, caridad, respeto, responsabilidad, perdón y solidaridad.</p>
+        <p>La Luz de la Fe: Un sendero que guía a las familias católicas hacia la unión, la esperanza y el amor de Dios, inspirando a padres, niños y jóvenes a vivir los valores cristianos de fe, esperanza, caridad, respeto, responsabilidad, perdón y solidaridad.</p>
     </header>
 
     <!-- Navegación -->
@@ -402,7 +402,7 @@ PROYECTO LUZ DE LA FE
         <!-- Sección Hero -->
         <section id="inicio" class="hero" aria-labelledby="hero-title">
             <h2 id="hero-title">Bienvenidos a La Luz de la Fe</h2>
-            <p>En <strong>FUNCECOR</strong>, abrimos las puertas de un espacio donde los valores católicos florecen. Acompañamos a las familias en un viaje espiritual, ofreciendo reflexiones profundas, actividades inspiradoras y recursos que fortalecen la fe y el amor en el hogar, impactando positivamente nuestras comunidades.</p>
+            <p>En <strong>FUNCECOR</strong>, abrimos las puertas de un espacio donde los valores católicos florecen. Acompañamos a las familias en un viaje espiritual, ofreciendo reflexiones profundas, actividades inspiradoras y recursos que fortalecen la fe y el amor en el hogar, impactando positivamente a nuestras comunidades.</p>
             <div class="multimedia">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Bienvenida a La Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -414,15 +414,15 @@ PROYECTO LUZ DE LA FE
             <div class="values-carousel">
                 <div class="value-card">
                     <h3>Fe</h3>
-                    <p>Un ancla espiritual que nos conecta con Dios y nos guía en cada paso de la vida.</p>
+                    <p>Principio de la vida cristiana, que orienta al ser humano hacia la comunión con Dios y la vida eterna.</p>
                 </div>
                 <div class="value-card">
                     <h3>Esperanza</h3>
-                    <p>La luz que ilumina nuestro camino hacia un futuro lleno de promesas divinas.</p>
+                    <p>Dirige el corazón del hombre hacia la verdadera felicidad, que se encuentra en la unión con Dios.</p>
                 </div>
                 <div class="value-card">
                     <h3>Caridad</h3>
-                    <p>El amor desinteresado que nos impulsa a servir y apoyar a nuestros hermanos.</p>
+                    <p>Ee manifiesta en actos concretos de amor, misericordia y servicio hacia los demás, especialmente hacia los más necesitados.</p>
                 </div>
                 <div class="value-card">
                     <h3>Respeto</h3>
